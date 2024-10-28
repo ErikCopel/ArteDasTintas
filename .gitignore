@@ -93,3 +93,9 @@ out/
 
 # Notas
 notas.txt
+
+# Compiled output
+arte-das-tintas-darwin-x64
+arte-das-tintas-linux-x64
+arte-das-tintas-win32-x64
+arte-das-tintas-mas-x64
